@@ -2,7 +2,7 @@
 
 **Turtle Time** is a 2D horizontal-scrolling underwater exploration game designed for toddlers. The player controls a sea turtle swimming through a colorful ocean environment, collecting starfish, dodging friendly hazards, and encountering vibrant sea life along the way.
 
-This game was built as a gift for a child named Colette.
+This game was built for my young daughter to explore marine life, while I teach myself a new set of AI tools.
 
 ## Features
 
