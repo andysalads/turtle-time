@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx:*)",
+      "Bash(timeout:*)",
+      "WebFetch(domain:127.0.0.1)",
+      "Bash(curl:*)",
+      "Bash(dir:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
