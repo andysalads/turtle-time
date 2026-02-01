@@ -4,6 +4,14 @@
 
 This game was built for my young daughter to explore marine life, while I teach myself a new set of AI tools.
 
+## Screenshots
+
+![Title Screen](assets/screenshots/TurtleTimeStart.png)
+
+![Gameplay](assets/screenshots/Level1.png)
+
+![Level Complete](assets/screenshots/Level1Complete.png)
+
 ## Features
 
 - **Simple controls** -- keyboard (arrow keys / WASD), mouse, or touch input
